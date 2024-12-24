@@ -8,7 +8,6 @@ public class HewanPeliharaan {
 		this.ras = r;
 	}
 	
-	
 	void display() {
 		System.out.println("Detail Hewan Peliharaan:");
 		System.out.println("Nama hewan peliharaanku adalah : " + this.nama);
